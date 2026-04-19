@@ -56,5 +56,5 @@ Security assessment project involving OTP bypass analysis, session-layer testing
 - AWS Machine Learning
 
 ## Connect
-- LinkedIn: [linkedin.com/in/ketanpatil](https://linkedin.com/in/ketanpatil)
+- LinkedIn: [linkedin.com/in/ketanpatil](https://linkedin.com/in/ketan-patil77)
 - Email: ket.patil77@gmail.com
