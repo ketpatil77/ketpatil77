@@ -3,7 +3,7 @@
 AI/ML Engineer, full-stack developer, and cybersecurity analyst focused on production systems, applied research, and measurable delivery.
 
 - Portfolio: [ketpatil77.github.io](https://ketpatil77.github.io)
-- Resume: [KET-RESUME-NEW.pdf](https://ketpatil77.github.io/resume/KET-RESUME-NEW.pdf?v=20260529)
+- Resume: [KET-RESUME-NEW.pdf](https://github.com/ketpatil77/KETPORT/raw/main/app/public/resume/KET-RESUME-NEW.pdf)
 - LinkedIn: [ketan-patil77](https://www.linkedin.com/in/ketan-patil77)
 - Email: [ket.patil77@gmail.com](mailto:ket.patil77@gmail.com)
 
