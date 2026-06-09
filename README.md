@@ -1,6 +1,6 @@
 # Ketan Patil
 
-Full-stack engineer focused on production web products, applied AI/ML systems, and security-aware software delivery.
+AI/ML Engineer, full-stack developer, and cybersecurity analyst focused on production systems, applied research, and measurable delivery.
 
 - Portfolio: [ketpatil77.github.io](https://ketpatil77.github.io)
 - Resume: [KET-RESUME-NEW.pdf](https://ketpatil77.github.io/resume/KET-RESUME-NEW.pdf?v=20260529)
@@ -9,9 +9,9 @@ Full-stack engineer focused on production web products, applied AI/ML systems, a
 
 ## What I Build
 
-- Production-facing React and TypeScript applications with strong UX and clean delivery.
-- AI-backed systems that turn models into usable products, not isolated notebooks.
-- Security-conscious platforms with attention to API quality, infra hygiene, and operational clarity.
+- Production-grade AI/ML systems, full-stack web platforms, and security-oriented tooling.
+- Research-backed products that move from experimentation to deployable workflows.
+- Practical systems with quantified outcomes across product, networking, and cybersecurity work.
 
 ## Featured Work
 
@@ -30,16 +30,24 @@ Flask and PyTorch application for crop disease detection with offline-friendly w
 - **Sophos**: Jr. Security Analyst Intern
 - **DPIIT, Government of India**: Tech Support Intern
 
+## Snapshot
+
+- **3** peer-reviewed publications
+- **14+** verified certifications
+- **CCNP / CCNA** certified
+- **~40%** attack-surface reduction from authorized NMU penetration test
+
 ## Research
 
-- **Multi-Angle Industrial Inspection Fusion**: viewpoint-invariant defect detection with reported 95.3% accuracy and AUC 0.991  
+- **Multi-Angle Industrial Inspection Fusion**: viewpoint-invariant defect detection with 95.3% accuracy, AUC 0.991, and 31.4 FPS edge inference  
   Paper: [IJVRA2603948](https://ijpub.org/ijvra/papers/IJVRA2603948.pdf)
-- **Thermal + Depth Fusion for Predictive Maintenance**: multimodal fault anticipation framework for rotating machinery  
+- **Thermal + Depth Fusion for Predictive Maintenance**: multimodal fault anticipation up to 72 hours before failure  
   Paper: [IJVRA2604277](https://ijpub.org/ijvra/papers/IJVRA2604277.pdf)
+- **FONTA: Failure Ontology for LLM Agents**: ontology-driven analysis of autonomous agent failures across 1,200 trials
 
 ## Core Stack
 
-`React` `TypeScript` `Python` `Flask` `PyTorch` `Docker` `Redis` `OpenCV` `Tailwind CSS` `Vite`
+`Python` `React` `TypeScript` `Flask` `Django` `PHP` `PyTorch` `Docker` `Redis` `TensorRT` `PostgreSQL` `Vite`
 
 ## Current Direction
 
