@@ -51,4 +51,4 @@ Flask and PyTorch application for crop disease detection with offline-friendly w
 
 ## Current Direction
 
-Building systems where frontend quality, model usefulness, and operational reliability all matter at same time.
+Building systems where frontend quality, model usefulness, and operational reliability all matter at the same time.
