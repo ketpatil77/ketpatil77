@@ -25,7 +25,6 @@ AI/ML Engineer, full-stack developer, and cybersecurity analyst focused on produ
 | [AIRLENS INDIA](https://github.com/ketpatil77/airlens-india) | Air-quality product for Indian cities | React, API data, UX storytelling | Live/fallback data flow and public-facing polish |
 | [Plant Disease Recognition System](https://github.com/ketpatil77/Plant-Disease-Recognition-System) | Crop disease detection workflow | Flask, PyTorch, reports | Farmer-oriented AI workflow with offline-friendly UX |
 | [College-ERP](https://github.com/ketpatil77/College-ERP) | Academic operations platform | Full-stack web | Practical admin workflows |
-| [CETRS](https://github.com/ketpatil77/CETRS) | Exam/training record system | Web application | Structured institutional tooling |
 
 ## Featured Work
 
@@ -57,7 +56,7 @@ Flask and PyTorch application for crop disease detection with offline-friendly w
 
 ## Snapshot
 
-- **5+** portfolio-grade applications across AI/ML, public data products, institutional tooling, and personal branding.
+- **4+** portfolio-grade applications across AI/ML, public data products, institutional tooling, and personal branding.
 - **3** peer-reviewed publications linked with reproducible project context.
 - **19** open upstream PRs kept active after stale draft cleanup.
 - **~40%** attack-surface reduction from authorized NMU penetration test.
