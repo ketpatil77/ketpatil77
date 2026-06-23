@@ -26,7 +26,7 @@ Flask and PyTorch application for crop disease detection with offline-friendly w
 
 ## Recent Contributions
 
-- **2026-06-23**: `headroomlabs-ai/headroom#1084` closed as superseded after project-header safety work reached `main`; branch contribution history preserved.
+- **2026-06-23**: `headroomlabs-ai/headroom#1084` closed as superseded after project-header safety work reached `main`; branch contribution history preserved. [Daily log](contributions/2026-06-23.md)
 
 ## Experience
 
