@@ -1,11 +1,15 @@
 # Ketan Patil
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Security](https://img.shields.io/badge/Security-Analyst-black?style=flat)
+
 AI/ML Engineer, full-stack developer, and cybersecurity analyst focused on production systems, applied research, and measurable delivery.
 
 - Portfolio: [ketpatil77.github.io](https://ketpatil77.github.io)
 - Resume: [KET-RESUME-NEW.pdf](https://github.com/ketpatil77/KETPORT/raw/main/app/public/resume/KET-RESUME-NEW.pdf)
 - LinkedIn: [ketan-patil77](https://www.linkedin.com/in/ketan-patil77)
 - Email: [ket.patil77@gmail.com](mailto:ket.patil77@gmail.com)
+- Contributor guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+- Security policy: [SECURITY.md](SECURITY.md)
 
 ## What I Build
 
