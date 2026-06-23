@@ -17,6 +17,16 @@ AI/ML Engineer, full-stack developer, and cybersecurity analyst focused on produ
 - Research-backed products that move from experimentation to deployable workflows.
 - Practical systems with quantified outcomes across product, networking, and cybersecurity work.
 
+## Selected Engineering Work
+
+| Project | Focus | Stack | Signal |
+| --- | --- | --- | --- |
+| [KETPORT](https://github.com/ketpatil77/KETPORT) | Portfolio and case-study platform | React, TypeScript, Vite | Production-style frontend structure |
+| [AIRLENS INDIA](https://github.com/ketpatil77/airlens-india) | Air-quality product for Indian cities | React, API data, UX storytelling | Live/fallback data flow and public-facing polish |
+| [Plant Disease Recognition System](https://github.com/ketpatil77/Plant-Disease-Recognition-System) | Crop disease detection workflow | Flask, PyTorch, reports | Farmer-oriented AI workflow with offline-friendly UX |
+| [College-ERP](https://github.com/ketpatil77/College-ERP) | Academic operations platform | Full-stack web | Practical admin workflows |
+| [CETRS](https://github.com/ketpatil77/CETRS) | Exam/training record system | Web application | Structured institutional tooling |
+
 ## Featured Work
 
 ### [KETPORT](https://github.com/ketpatil77/KETPORT)
@@ -27,6 +37,13 @@ Interactive air-quality platform for India with city comparison, AQI storytellin
 
 ### [Plant Disease Recognition System](https://github.com/ketpatil77/Plant-Disease-Recognition-System)
 Flask and PyTorch application for crop disease detection with offline-friendly workflow, Marathi-ready UX, generated reports, weather context, and farmer-oriented recommendations.
+
+## Open Source PRs
+
+- [github/docs#44778](https://github.com/github/docs/pull/44778): clarified `workflow_dispatch` environment input behavior.
+- [Panniantong/Agent-Reach#387](https://github.com/Panniantong/Agent-Reach/pull/387): documented Windows Twitter cookie limitation.
+- [nexus-substrate/nexus-eval-atbench#32](https://github.com/nexus-substrate/nexus-eval-atbench/pull/32): removed broken lint script.
+- [pyqtgraph/pyqtgraph#3497](https://github.com/pyqtgraph/pyqtgraph/pull/3497): clarified log mode and clip-to-view expectations.
 
 ## Recent Contributions
 
@@ -60,3 +77,9 @@ Flask and PyTorch application for crop disease detection with offline-friendly w
 ## Current Direction
 
 Building systems where frontend quality, model usefulness, and operational reliability all matter at same time.
+
+## Profile Operations
+
+- Open contribution notes live in [`contributions/`](contributions/).
+- PR snapshots live in [`pull-requests/`](pull-requests/).
+- Repository hygiene uses [`CONTRIBUTING.md`](CONTRIBUTING.md), [`SECURITY.md`](SECURITY.md), and GitHub templates.
