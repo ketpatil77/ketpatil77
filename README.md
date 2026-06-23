@@ -24,6 +24,10 @@ Interactive air-quality platform for India with city comparison, AQI storytellin
 ### [Plant Disease Recognition System](https://github.com/ketpatil77/Plant-Disease-Recognition-System)
 Flask and PyTorch application for crop disease detection with offline-friendly workflow, Marathi-ready UX, generated reports, weather context, and farmer-oriented recommendations.
 
+## Recent Contributions
+
+- **2026-06-23**: `headroomlabs-ai/headroom#1084` closed as superseded after project-header safety work reached `main`; branch contribution history preserved.
+
 ## Experience
 
 - **Meta**: Jr. Network Analyst Intern
