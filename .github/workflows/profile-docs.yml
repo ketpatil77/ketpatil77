@@ -1,0 +1,33 @@
+name: Profile docs
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check Markdown files exist
+        run: |
+          test -f README.md
+          test -f CONTRIBUTING.md
+          test -f SECURITY.md
+
+      - name: Scan Markdown for conflict markers
+        run: |
+          if grep -R "<<<<<<<\|=======\|>>>>>>>" --include='*.md' .; then
+            echo "Conflict marker found"
+            exit 1
+          fi
+
+      - name: Check important profile links
+        run: |
+          grep -q "ketpatil77.github.io" README.md
+          grep -q "KET-RESUME-NEW.pdf" README.md
+          grep -q "Plant-Disease-Recognition-System" README.md
