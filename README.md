@@ -57,10 +57,10 @@ Flask and PyTorch application for crop disease detection with offline-friendly w
 
 ## Snapshot
 
-- **3** peer-reviewed publications
-- **14+** verified certifications
-- **CCNP / CCNA** certified
-- **~40%** attack-surface reduction from authorized NMU penetration test
+- **5+** portfolio-grade applications across AI/ML, public data products, institutional tooling, and personal branding.
+- **3** peer-reviewed publications linked with reproducible project context.
+- **19** open upstream PRs kept active after stale draft cleanup.
+- **~40%** attack-surface reduction from authorized NMU penetration test.
 
 ## Research
 
