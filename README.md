@@ -46,7 +46,7 @@ Flask and PyTorch application for crop disease detection with offline-friendly w
 
 ## Recent Contributions
 
-- **2026-06-29**: Rechecked active PRs and Gmail GitHub notifications; logged current PR health, stale-risk items, and maintainer-requested next actions. [Daily log](contributions/2026-06-29.md)
+- **2026-06-29**: Opened docs issues in trending repos: [browser-use/video-use#92](https://github.com/browser-use/video-use/issues/92) and [altic-dev/FluidVoice#471](https://github.com/altic-dev/FluidVoice/issues/471); rechecked active PRs and Gmail GitHub notifications. [Daily log](contributions/2026-06-29.md)
 - **2026-06-23**: `headroomlabs-ai/headroom#1084` closed as superseded after project-header safety work reached `main`; branch contribution history preserved. [Daily log](contributions/2026-06-23.md)
 
 ## Experience
