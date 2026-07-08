@@ -106,7 +106,6 @@ Paper: [IJVRA2603948](https://ijpub.org/ijvra/papers/IJVRA2603948.pdf)
 **Thermal + Depth Fusion for Predictive Maintenance**  
 Multimodal fault anticipation pipeline designed to detect maintenance risk **up to 72 hours before failure**.  
 Paper: [IJVRA2604277](https://ijpub.org/ijvra/papers/IJVRA2604277.pdf)
-
 ### <img src="https://img.shields.io/badge/Research-FONTA-0f172a?style=flat-square&logo=openai&logoColor=white" alt="FONTA Research" />
 **FONTA: Failure Ontology for LLM Agents**  
 Ontology-driven analysis of autonomous agent failures across **1,200 trials**, focused on reasoning breakdowns, failure patterns, and evaluation structure for agentic systems.
