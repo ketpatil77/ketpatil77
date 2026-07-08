@@ -2,7 +2,7 @@
 
 # Ketan Patil
 
-### AI/ML Engineer building production systems, deployable research, and security-minded products
+### Proof-first AI/ML Engineer building production systems, deployable research, and security-minded products
 
 <p>
   <a href="https://ketpatil77.github.io">
@@ -30,13 +30,13 @@
   <img src="https://img.shields.io/badge/Focus-Production%20AI%2FML-0f766e?style=flat-square" alt="Production AI/ML" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Engineering-7c3aed?style=flat-square" alt="Full-Stack Engineering" />
   <img src="https://img.shields.io/badge/Focus-Security--Minded%20Systems-b91c1c?style=flat-square" alt="Security-Minded Systems" />
-  <img src="https://img.shields.io/badge/Publications-3-475569?style=flat-square" alt="3 Publications" />
+  <img src="https://img.shields.io/badge/Research-3%20Tracks-475569?style=flat-square" alt="3 Research Tracks" />
   <img src="https://img.shields.io/badge/Certifications-14%2B-475569?style=flat-square" alt="14+ Certifications" />
 </p>
 
 <p>
-  I build AI systems and product-grade software that have to work beyond demos:
-  reliable interfaces, measurable outcomes, and engineering decisions grounded in production reality.
+  I build AI systems and product-grade software that have to survive beyond demos:
+  reliable interfaces, measurable outcomes, maintainable code paths, and engineering decisions grounded in production reality.
 </p>
 
 <p>
@@ -45,21 +45,61 @@
 
 </div>
 
+## Engineering Thesis
+
+I work at the intersection of applied AI, product engineering, and security-aware systems. My focus is not only model output, but the complete path from idea to usable workflow: data handling, interface clarity, deployment constraints, reliability, and user-facing proof.
+
+<table>
+  <tr>
+    <td><strong>AI/ML Systems</strong></td>
+    <td>Computer vision, applied ML workflows, agentic-system research, model-backed product features</td>
+  </tr>
+  <tr>
+    <td><strong>Product Engineering</strong></td>
+    <td>React, TypeScript, Flask, Django, APIs, dashboards, portfolio-grade UX, deployment-ready builds</td>
+  </tr>
+  <tr>
+    <td><strong>Security & Networks</strong></td>
+    <td>CCNP/CCNA foundation, defensive analysis, network operations exposure, authorized testing context</td>
+  </tr>
+  <tr>
+    <td><strong>Research Translation</strong></td>
+    <td>Turning papers and experiments into systems with measurable behavior, usable flows, and clear documentation</td>
+  </tr>
+</table>
+
+## Proof Signals
+
+<table>
+  <tr>
+    <td align="center"><strong>3</strong><br/>Research / publication tracks</td>
+    <td align="center"><strong>14+</strong><br/>Verified certifications</td>
+    <td align="center"><strong>CCNP / CCNA</strong><br/>Networking credentials</td>
+    <td align="center"><strong>~40%</strong><br/>Attack-surface reduction from authorized NMU penetration test</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>4+</strong><br/>Portfolio-grade applications</td>
+    <td align="center"><strong>15</strong><br/>Open upstream PRs under active triage snapshot</td>
+    <td align="center"><strong>Meta / Sophos / DPIIT</strong><br/>Cross-domain exposure</td>
+    <td align="center"><strong>Active OSS</strong><br/>Docs, tooling, and systems contributions</td>
+  </tr>
+</table>
+
 ## What I Build
 
 - Production AI/ML systems that move from experiment to usable workflow with clear operator value.
-- Full-stack platforms where frontend quality, backend reliability, and product clarity matter together.
-- Applied research projects translated into deployable software, not left as isolated papers.
-- Security-conscious systems shaped by real networking, defensive analysis, and operational constraints.
+- Full-stack platforms where frontend quality, backend reliability, and product clarity are engineered together.
+- Applied research projects translated into deployable software instead of being left as isolated papers.
+- Security-conscious systems shaped by networking, defensive analysis, and real operational constraints.
 
-## Featured Projects
+## Featured Systems
 
 ### <img src="https://img.shields.io/badge/KETPORT-Portfolio%20System-111827?style=flat-square&logo=github&logoColor=white" alt="KETPORT" />
 [KETPORT](https://github.com/ketpatil77/KETPORT)
 
-Professional portfolio platform built with React, TypeScript, and Vite to present technical case studies, research, services, and engineering depth in polished product form.
+Professional portfolio platform built with React, TypeScript, and Vite to present technical case studies, research, services, and engineering proof in polished product form.
 
-**Why it matters:** demonstrates frontend execution, visual systems thinking, and production-grade presentation for technical work.
+**Engineering signal:** frontend execution, component discipline, visual systems thinking, public technical positioning, and production-grade presentation for technical work.
 
 `React` `TypeScript` `Vite` `UI Engineering` `Portfolio Systems`
 
@@ -68,7 +108,7 @@ Professional portfolio platform built with React, TypeScript, and Vite to presen
 
 Interactive India-focused air-quality platform with city comparison, AQI storytelling, health context, forecast handling, and live/fallback API resilience.
 
-**Why it matters:** shows product thinking around public data, user interpretation, and reliable live-data presentation beyond a basic dashboard.
+**Engineering signal:** public-data product thinking, resilient API integration, forecast UX, fallback behavior, and user interpretation beyond a basic dashboard.
 
 `Data Products` `Forecast UX` `API Integration` `Frontend Systems`
 
@@ -77,7 +117,7 @@ Interactive India-focused air-quality platform with city comparison, AQI storyte
 
 Flask and PyTorch application for crop disease detection with offline-friendly workflow, Marathi-ready UX, generated reports, weather context, and farmer-oriented recommendations.
 
-**Why it matters:** combines applied ML, practical deployment constraints, and regional usability for non-trivial end users.
+**Engineering signal:** applied ML, computer vision, deployment constraints, report generation, regional usability, and practical decision support for non-trivial end users.
 
 `Flask` `PyTorch` `Computer Vision` `Applied ML` `Offline-Friendly UX`
 
@@ -92,7 +132,8 @@ Flask and PyTorch application for crop disease detection with offline-friendly w
 
 ## Recent Contribution Logs
 
-- **2026-06-29**: Opened docs issues in trending repos: [browser-use/video-use#92](https://github.com/browser-use/video-use/issues/92) and [altic-dev/FluidVoice#471](https://github.com/altic-dev/FluidVoice/issues/471); rechecked active PRs and Gmail GitHub notifications. [Daily log](contributions/2026-06-29.md)
+- **2026-07-08**: Rebuilt the profile README into a sharper proof-first engineering profile; updated project framing, proof signals, research wording, and recent-log visibility. [Daily log](contributions/2026-07-08.md)
+- **2026-06-29**: Opened docs issues in trending repos: [browser-use/video-use#92](https://github.com/browser-use/video-use/issues/92) and [altic-dev/FluidVoice#471](https://github.com/altic-dev/FluidVoice/issues/471); rechecked active PRs and GitHub notification signals. [Daily log](contributions/2026-06-29.md)
 - **2026-06-23**: `headroomlabs-ai/headroom#1084` closed as superseded after project-header safety work reached `main`; branch contribution history preserved. [Daily log](contributions/2026-06-23.md)
 
 ## Research & Publications
@@ -106,6 +147,7 @@ Paper: [IJVRA2603948](https://ijpub.org/ijvra/papers/IJVRA2603948.pdf)
 **Thermal + Depth Fusion for Predictive Maintenance**  
 Multimodal fault anticipation pipeline designed to detect maintenance risk **up to 72 hours before failure**.  
 Paper: [IJVRA2604277](https://ijpub.org/ijvra/papers/IJVRA2604277.pdf)
+
 ### <img src="https://img.shields.io/badge/Research-FONTA-0f172a?style=flat-square&logo=openai&logoColor=white" alt="FONTA Research" />
 **FONTA: Failure Ontology for LLM Agents**  
 Ontology-driven analysis of autonomous agent failures across **1,200 trials**, focused on reasoning breakdowns, failure patterns, and evaluation structure for agentic systems.
@@ -114,26 +156,9 @@ Ontology-driven analysis of autonomous agent failures across **1,200 trials**, f
 
 | Organization | Role | Domain |
 | --- | --- | --- |
-| Meta | Jr. Network Analyst Intern | Network operations, infra exposure, production connectivity context |
+| Meta | Jr. Network Analyst Intern | Network operations, infrastructure exposure, production connectivity context |
 | Sophos | Jr. Security Analyst Intern | Security analysis, defensive workflows, threat-aware thinking |
 | DPIIT, Government of India | Tech Support Intern | Public-sector systems support, technical troubleshooting, operations discipline |
-
-## Engineering Proof
-
-<table>
-  <tr>
-    <td align="center"><strong>3</strong><br/>Peer-reviewed publications</td>
-    <td align="center"><strong>14+</strong><br/>Verified certifications</td>
-    <td align="center"><strong>CCNP / CCNA</strong><br/>Networking credentials</td>
-    <td align="center"><strong>~40%</strong><br/>Attack-surface reduction from authorized NMU penetration test</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>4+</strong><br/>Portfolio-grade applications</td>
-    <td align="center"><strong>15</strong><br/>Open upstream PRs under active triage snapshot</td>
-    <td align="center"><strong>Meta / Sophos / DPIIT</strong><br/>Cross-domain exposure</td>
-    <td align="center"><strong>Active OSS</strong><br/>Docs, tooling, and systems contributions</td>
-  </tr>
-</table>
 
 ## Core Stack
 
@@ -160,8 +185,9 @@ Ontology-driven analysis of autonomous agent failures across **1,200 trials**, f
 Building systems where:
 
 - AI usefulness has to survive real product constraints.
-- Frontend polish and model capability are held to same standard.
+- Frontend polish and model capability are held to the same standard.
 - Reliability, security thinking, and measurable outcomes matter as much as raw feature count.
+- Research claims are connected to artifacts, workflows, and verifiable engineering proof.
 
 If you are building product-grade AI workflows, applied ML tools, or engineering-heavy software with real users, I am interested in that problem space.
 
