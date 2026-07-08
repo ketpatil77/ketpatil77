@@ -2,7 +2,7 @@
 
 # Ketan Patil
 
-### Proof-first AI/ML Engineer building production systems, deployable research, and security-minded products
+### AI/ML Engineer building production systems, deployable research, and security-minded products
 
 <p>
   <a href="https://ketpatil77.github.io">
