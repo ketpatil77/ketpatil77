@@ -9,7 +9,24 @@
   <a href="https://github.com/ketpatil77?tab=repositories"><img src="https://img.shields.io/badge/SOURCE_INDEX-0B1224?style=flat-square&logo=github&logoColor=F8FAFC" alt="Repositories" /></a>
 </p>
 
-<img width="100%" src="assets/live-telemetry.svg?v=2" alt="Live engineering telemetry generated from GitHub data" />
+<a href="https://github.com/ketpatil77?tab=overview&from=2026-01-01&to=2026-12-31">
+  <picture>
+    <source media="(max-width: 640px)" srcset="assets/live-telemetry-mobile.svg?v=3" />
+    <img width="100%" src="assets/live-telemetry.svg?v=3" alt="Live engineering telemetry generated from GitHub data; open detailed contribution history" />
+  </picture>
+</a>
+
+<details>
+  <summary><strong>Telemetry drill-down</strong></summary>
+
+  | Signal | Interpretation | Deep link |
+  | --- | --- | --- |
+  | Contribution velocity | Weekly delivery intensity across rolling 52-week window | [Contribution history](https://github.com/ketpatil77?tab=overview) |
+  | Merged pull requests | Changes accepted into owned and external repositories | [Merged work](https://github.com/pulls?q=is%3Apr+author%3Aketpatil77+is%3Amerged) |
+  | Open pull requests | Active review and integration surface | [Review queue](https://github.com/pulls?q=is%3Apr+author%3Aketpatil77+is%3Aopen) |
+  | Language distribution | Primary language across owned, non-fork repositories | [Source index](https://github.com/ketpatil77?tab=repositories) |
+
+</details>
 
 </div>
 
