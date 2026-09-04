@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/command-deck.svg" alt="Ketan Patil engineering command deck" />
+<img width="100%" src="assets/command-deck.svg?v=2" alt="Ketan Patil engineering command deck" />
 
 <p>
   <a href="https://ketpatil77.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-0B1224?style=flat-square&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
@@ -9,7 +9,7 @@
   <a href="https://github.com/ketpatil77?tab=repositories"><img src="https://img.shields.io/badge/SOURCE_INDEX-0B1224?style=flat-square&logo=github&logoColor=F8FAFC" alt="Repositories" /></a>
 </p>
 
-<img width="100%" src="assets/live-telemetry.svg" alt="Live engineering telemetry generated from GitHub data" />
+<img width="100%" src="assets/live-telemetry.svg?v=2" alt="Live engineering telemetry generated from GitHub data" />
 
 </div>
 
@@ -28,7 +28,7 @@ I build production-minded AI and full-stack systems: model-backed workflows, res
 ## System topology
 
 <div align="center">
-  <img width="100%" src="assets/system-topology.svg" alt="Animated engineering system topology" />
+  <img width="100%" src="assets/system-topology.svg?v=2" alt="Animated engineering system topology" />
 </div>
 
 ## Live contribution telemetry
