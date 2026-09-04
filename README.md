@@ -9,7 +9,7 @@
   <a href="https://github.com/ketpatil77?tab=repositories"><img src="https://img.shields.io/badge/SOURCE_INDEX-0B1224?style=flat-square&logo=github&logoColor=F8FAFC" alt="Repositories" /></a>
 </p>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ketpatil77&theme=github_dark&animation=rgb-soft" alt="Engineering activity overview" />
+<img width="100%" src="assets/live-telemetry.svg" alt="Live engineering telemetry generated from GitHub data" />
 
 </div>
 
