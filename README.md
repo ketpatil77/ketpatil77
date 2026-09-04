@@ -31,7 +31,7 @@ I build production-minded AI and full-stack systems: model-backed workflows, res
 
 <div align="center">
   <img width="100%" src="profile-3d-contrib/profile-night-view.svg" alt="Three-dimensional GitHub contribution landscape" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ketpatil77&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Velocity" alt="Contribution velocity chart" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=ketpatil77&theme=github-dark-blue&hide_border=true&mode=weekly" alt="Contribution consistency analysis" />
 </div>
 
 ## Repository analytics
@@ -65,9 +65,12 @@ Research signal → system design → measurable implementation → adversarial 
 
 ## Recognition
 
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ketpatil77&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub recognition summary" />
-</div>
+| GitHub signal | Evidence |
+| --- | --- |
+| Pull Shark ×2 | Repeated pull-request collaboration and merged-change history |
+| Pair Extraordinaire | Credited co-authored engineering work |
+| Quickdraw | Fast issue-to-resolution execution |
+| YOLO | Direct merge ownership where appropriate |
 
 ---
 
