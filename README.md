@@ -16,6 +16,11 @@
   </picture>
 </a>
 
+<div align="center">
+  <a href="https://ketpatil77.github.io/ketpatil77/dashboard/"><strong>OPEN INTERACTIVE TELEMETRY CONSOLE</strong></a><br />
+  <sub>Touch chart scrubbing · range filters · keyboard inspection · capability nodes · project search</sub>
+</div>
+
 <details>
   <summary><strong>Telemetry drill-down</strong></summary>
 
