@@ -2,197 +2,80 @@
 
 # Ketan Patil
 
-### AI/ML Engineer building production systems, deployable research, and security-minded products
+### AI/ML Engineer · Full-Stack Builder · Security-Minded Problem Solver
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=I+turn+applied+AI+research+into+usable+products.;Python+%7C+Django+%7C+FastAPI+%7C+React+%7C+Cloud;Building+reliable+systems%2C+not+just+demos.)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://ketpatil77.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/ketan-patil77">
-    <img src="https://img.shields.io/badge/LinkedIn-ketan--patil77-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ket.patil77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ket.patil77%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ketpatil77/KETPORT/raw/main/app/public/resume/KET-RESUME-NEW.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-2563eb?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://github.com/ketpatil77">
-    <img src="https://img.shields.io/badge/GitHub-ketpatil77-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/ketpatil77/ketpatil77/blob/main/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contributor%20Guide-Profile%20Ops-475569?style=for-the-badge&logo=gitbook&logoColor=white" alt="Contributor Guide" />
-  </a>
+  <a href="https://github.com/ketpatil77"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ketan-patil77"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://ketpatil77.github.io"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="mailto:ket.patil77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Positioning-Proof--First%20AI%20Engineer-1d4ed8?style=flat-square" alt="Proof-First AI Engineer" />
-  <img src="https://img.shields.io/badge/Focus-Production%20AI%2FML-0f766e?style=flat-square" alt="Production AI/ML" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Engineering-7c3aed?style=flat-square" alt="Full-Stack Engineering" />
-  <img src="https://img.shields.io/badge/Focus-Security--Minded%20Systems-b91c1c?style=flat-square" alt="Security-Minded Systems" />
-  <img src="https://img.shields.io/badge/Research-3%20Tracks-475569?style=flat-square" alt="3 Research Tracks" />
-  <img src="https://img.shields.io/badge/Certifications-14%2B-475569?style=flat-square" alt="14+ Certifications" />
-</p>
-
-<p>
-  I build AI systems and product-grade software that have to survive beyond demos:
-  reliable interfaces, measurable outcomes, maintainable code paths, and engineering decisions grounded in production reality.
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,react,ts,flask,django,pytorch,docker,postgres,redis,vite&perline=10" alt="Core stack logos" />
-</p>
+<img src="Assets/output.gif" width="600" alt="Ketan Patil as a 3D superhero overlooking Git City with Python-powered technology" />
 
 </div>
 
-## Engineering Thesis
+## About me
 
-I work at the intersection of applied AI, product engineering, and security-aware systems. My focus is not only model output, but the complete path from idea to usable workflow: data handling, interface clarity, deployment constraints, reliability, and user-facing proof.
+I build production-minded AI and full-stack systems—from model-backed workflows and APIs to polished interfaces and cloud deployment. My work sits where **applied AI, product engineering, and security-aware systems** meet.
 
-<table>
-  <tr>
-    <td><strong>AI/ML Systems</strong></td>
-    <td>Computer vision, applied ML workflows, agentic-system research, model-backed product features</td>
-  </tr>
-  <tr>
-    <td><strong>Product Engineering</strong></td>
-    <td>React, TypeScript, Flask, Django, APIs, dashboards, portfolio-grade UX, deployment-ready builds</td>
-  </tr>
-  <tr>
-    <td><strong>Security & Networks</strong></td>
-    <td>CCNP/CCNA foundation, defensive analysis, network operations exposure, authorized testing context</td>
-  </tr>
-  <tr>
-    <td><strong>Research Translation</strong></td>
-    <td>Turning papers and experiments into systems with measurable behavior, usable flows, and clear documentation</td>
-  </tr>
-</table>
+- 🔭 Currently building reliable AI products, placement technology, and developer tools
+- 🌱 Deepening system design, LLM evaluation, vector databases, and cloud-native delivery
+- 💬 Ask me about Python, Django, FastAPI, React, computer vision, networking, or applied AI
+- 🧠 I care about measurable outcomes, maintainable code, and useful UX—not demo-only software
+- 🤝 Open to full-time engineering opportunities and meaningful open-source collaboration
 
-## Proof Signals
+## Featured work
 
-<table>
-  <tr>
-    <td align="center"><strong>3</strong><br/>Research / publication tracks</td>
-    <td align="center"><strong>14+</strong><br/>Verified certifications</td>
-    <td align="center"><strong>CCNP / CCNA</strong><br/>Networking credentials</td>
-    <td align="center"><strong>~40%</strong><br/>Attack-surface reduction from authorized NMU penetration test</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>4+</strong><br/>Portfolio-grade applications</td>
-    <td align="center"><strong>15</strong><br/>Open upstream PRs under active triage snapshot</td>
-    <td align="center"><strong>Meta / Sophos / DPIIT</strong><br/>Cross-domain exposure</td>
-    <td align="center"><strong>Active OSS</strong><br/>Docs, tooling, and systems contributions</td>
-  </tr>
-</table>
-
-## What I Build
-
-- Production AI/ML systems that move from experiment to usable workflow with clear operator value.
-- Full-stack platforms where frontend quality, backend reliability, and product clarity are engineered together.
-- Applied research projects translated into deployable software instead of being left as isolated papers.
-- Security-conscious systems shaped by networking, defensive analysis, and real operational constraints.
-
-## Featured Systems
-
-### <img src="https://img.shields.io/badge/KETPORT-Portfolio%20System-111827?style=flat-square&logo=github&logoColor=white" alt="KETPORT" />
-[KETPORT](https://github.com/ketpatil77/KETPORT)
-
-Professional portfolio platform built with React, TypeScript, and Vite to present technical case studies, research, services, and engineering proof in polished product form.
-
-**Engineering signal:** frontend execution, component discipline, visual systems thinking, public technical positioning, and production-grade presentation for technical work.
-
-`React` `TypeScript` `Vite` `UI Engineering` `Portfolio Systems`
-
-### <img src="https://img.shields.io/badge/AIRLENS%20INDIA-Air%20Quality%20Platform-0f766e?style=flat-square&logo=leaflet&logoColor=white" alt="AIRLENS INDIA" />
-[AIRLENS INDIA](https://github.com/ketpatil77/airlens-india)
-
-Interactive India-focused air-quality platform with city comparison, AQI storytelling, health context, forecast handling, and live/fallback API resilience.
-
-**Engineering signal:** public-data product thinking, resilient API integration, forecast UX, fallback behavior, and user interpretation beyond a basic dashboard.
-
-`Data Products` `Forecast UX` `API Integration` `Frontend Systems`
-
-### <img src="https://img.shields.io/badge/Plant%20Disease-ML%20Detection%20System-166534?style=flat-square&logo=pytorch&logoColor=white" alt="Plant Disease Recognition System" />
-[Plant Disease Recognition System](https://github.com/ketpatil77/Plant-Disease-Recognition-System)
-
-Flask and PyTorch application for crop disease detection with offline-friendly workflow, Marathi-ready UX, generated reports, weather context, and farmer-oriented recommendations.
-
-**Engineering signal:** applied ML, computer vision, deployment constraints, report generation, regional usability, and practical decision support for non-trivial end users.
-
-`Flask` `PyTorch` `Computer Vision` `Applied ML` `Offline-Friendly UX`
-
-## Open Source Work
-
-| Contribution | What moved |
+| Project | What it proves |
 | --- | --- |
-| [github/docs#44778](https://github.com/github/docs/pull/44778) | Clarified `workflow_dispatch` environment input behavior |
-| [Panniantong/Agent-Reach#387](https://github.com/Panniantong/Agent-Reach/pull/387) | Documented Windows Twitter cookie limitation |
-| [nexus-substrate/nexus-eval-atbench#32](https://github.com/nexus-substrate/nexus-eval-atbench/pull/32) | Removed broken lint script |
-| [mozilla-mobile/firefox-ios#34168](https://github.com/mozilla-mobile/firefox-ios/pull/34168) | Consolidated setup guidance and follow-up context |
+| [TPO](https://github.com/ketpatil77/TPO) | Multi-role placement portal engineering with secure workflows and production deployment |
+| [KETPORT](https://github.com/ketpatil77/KETPORT) | Production-grade React/TypeScript portfolio with polished interaction design |
+| [Chikitsamedha](https://github.com/ketpatil77/chikitsamedha) | Privacy-first medicine safety analysis with explainable risk signals |
+| [Plant Disease Recognition](https://github.com/ketpatil77/Plant-Disease-Recognition-System) | PyTorch computer vision, bilingual UX, reports, weather context, and offline-ready workflows |
 
-## Recent Contribution Logs
+## Skills
 
-- **2026-07-08**: Rebuilt the profile README into a sharper proof-first engineering profile; updated project framing, proof signals, research wording, and recent-log visibility. [Daily log](contributions/2026-07-08.md)
-- **2026-06-29**: Opened docs issues in trending repos: [browser-use/video-use#92](https://github.com/browser-use/video-use/issues/92) and [altic-dev/FluidVoice#471](https://github.com/altic-dev/FluidVoice/issues/471); rechecked active PRs and GitHub notification signals. [Daily log](contributions/2026-06-29.md)
-- **2026-06-23**: `headroomlabs-ai/headroom#1084` closed as superseded after project-header safety work reached `main`; branch contribution history preserved. [Daily log](contributions/2026-06-23.md)
+### Backend
+<p><img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs&perline=8" alt="Backend: Python, Django, FastAPI, Flask, Node.js" /></p>
 
-## Research & Publications
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite&perline=8" alt="Frontend: React, TypeScript, JavaScript, HTML, CSS, Vite" /></p>
 
-### <img src="https://img.shields.io/badge/Publication-Industrial%20Inspection-2563eb?style=flat-square&logo=googlescholar&logoColor=white" alt="Industrial Inspection Publication" />
-**Multi-Angle Industrial Inspection Fusion**  
-Viewpoint-invariant defect detection system with **95.3% accuracy**, **0.991 AUC**, and **31.4 FPS** edge inference.  
-Paper: [IJVRA2603948](https://ijpub.org/ijvra/papers/IJVRA2603948.pdf)
+### Cloud & DevOps
+<p><img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,githubactions,linux&perline=8" alt="Cloud and DevOps: AWS, Cloudflare, Docker, GitHub Actions, Linux" /></p>
 
-### <img src="https://img.shields.io/badge/Publication-Predictive%20Maintenance-7c3aed?style=flat-square&logo=googlescholar&logoColor=white" alt="Predictive Maintenance Publication" />
-**Thermal + Depth Fusion for Predictive Maintenance**  
-Multimodal fault anticipation pipeline designed to detect maintenance risk **up to 72 hours before failure**.  
-Paper: [IJVRA2604277](https://ijpub.org/ijvra/papers/IJVRA2604277.pdf)
-
-### <img src="https://img.shields.io/badge/Research-FONTA-0f172a?style=flat-square&logo=openai&logoColor=white" alt="FONTA Research" />
-**FONTA: Failure Ontology for LLM Agents**  
-Ontology-driven analysis of autonomous agent failures across **1,200 trials**, focused on reasoning breakdowns, failure patterns, and evaluation structure for agentic systems.
-
-## Experience Snapshot
-
-| Organization | Role | Domain |
-| --- | --- | --- |
-| Meta | Jr. Network Analyst Intern | Network operations, infrastructure exposure, production connectivity context |
-| Sophos | Jr. Security Analyst Intern | Security analysis, defensive workflows, threat-aware thinking |
-| DPIIT, Government of India | Tech Support Intern | Public-sector systems support, technical troubleshooting, operations discipline |
-
-## Core Stack
-
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,php,react,flask,django&perline=7" alt="Languages and frameworks" />
-</p>
+### Databases
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,sqlite&perline=8" alt="Databases: PostgreSQL, MongoDB, Redis, Supabase, SQLite" /></p>
 
 ### AI / ML
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="TensorRT" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-Applied-0f766e?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/LLM%20Systems-Agentic%20Research-111827?style=for-the-badge" alt="LLM Systems" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Large language models" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt engineering" />
+  <img src="https://img.shields.io/badge/Vector_Databases-0F766E?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector databases" />
+  <img src="https://img.shields.io/badge/Computer_Vision-2563EB?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer vision" />
 </p>
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" alt="AI and ML: PyTorch, TensorFlow, OpenCV" /></p>
 
-### Infra & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,postgres,redis,vite,git,linux&perline=6" alt="Infra and data stack" />
-</p>
+### Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=8" alt="Tools: Git, GitHub, VS Code, Postman, Figma" /></p>
 
-## Current Focus
+## GitHub analytics
 
-Building systems where:
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ketpatil77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ketan's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketpatil77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Ketan's most-used languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=ketpatil77&theme=tokyonight&hide_border=true" alt="Ketan's GitHub contribution streak" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=ketpatil77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Ketan's GitHub trophies" />
+</div>
 
-- AI usefulness has to survive real product constraints.
-- Frontend polish and model capability are held to the same standard.
-- Reliability, security thinking, and measurable outcomes matter as much as raw feature count.
-- Research claims are connected to artifacts, workflows, and verifiable engineering proof.
+---
 
-If you are building product-grade AI workflows, applied ML tools, or engineering-heavy software with real users, I am interested in that problem space.
-
-## Profile Operations
-
-- Open contribution notes live in [`contributions/`](contributions/).
-- PR snapshots live in [`pull-requests/`](pull-requests/).
-- Repository hygiene uses [`CONTRIBUTING.md`](CONTRIBUTING.md) and profile repo standards.
+<div align="center">
+  <strong>Have an ambitious AI or product-engineering problem?</strong><br />
+  <a href="mailto:ket.patil77@gmail.com">Let's build something useful.</a>
+</div>
