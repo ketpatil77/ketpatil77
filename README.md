@@ -1,25 +1,23 @@
 <div align="center">
 
-# Ketan Patil
-
-**AI/ML Engineer · Full-Stack Systems · Security-Aware Product Engineering**
+<img width="100%" src="assets/command-deck.svg" alt="Ketan Patil engineering command deck" />
 
 <p>
-  <a href="https://ketpatil77.github.io">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ketan-patil77">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:ket.patil77@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/ketpatil77?tab=repositories">Repositories</a>
+  <a href="https://ketpatil77.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-0B1224?style=flat-square&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ketan-patil77"><img src="https://img.shields.io/badge/LINKEDIN-0B1224?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+  <a href="mailto:ket.patil77@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0B1224?style=flat-square&logo=gmail&logoColor=F59E0B" alt="Email" /></a>
+  <a href="https://github.com/ketpatil77?tab=repositories"><img src="https://img.shields.io/badge/SOURCE_INDEX-0B1224?style=flat-square&logo=github&logoColor=F8FAFC" alt="Repositories" /></a>
 </p>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ketpatil77&theme=github_dark&animation=rgb-soft" alt="Engineering activity overview" />
 
 </div>
 
-## Engineering profile
+## Operator profile
 
 I build production-minded AI and full-stack systems: model-backed workflows, resilient APIs, usable interfaces, cloud delivery, and security-conscious operations. My standard is software that can move beyond a demonstration and survive real users, constraints, and maintenance.
 
-| Domain | Working depth |
+| System layer | Operational depth |
 | --- | --- |
 | Applied AI | LLM systems, prompt engineering, vector retrieval, computer vision, model evaluation |
 | Backend systems | Python, Django, FastAPI, Flask, asynchronous workflows, REST APIs |
@@ -27,14 +25,20 @@ I build production-minded AI and full-stack systems: model-backed workflows, res
 | Platform & data | Cloudflare, AWS, Docker, PostgreSQL, MongoDB, Redis, Supabase |
 | Security & reliability | Network fundamentals, defensive analysis, authorization boundaries, operational verification |
 
-## Contribution intelligence
+## System topology
+
+<div align="center">
+  <img width="100%" src="assets/system-topology.svg" alt="Animated engineering system topology" />
+</div>
+
+## Live contribution telemetry
 
 <div align="center">
   <img width="100%" src="profile-3d-contrib/profile-night-view.svg" alt="Three-dimensional GitHub contribution landscape" />
   <img width="70%" src="https://streak-stats.demolab.com?user=ketpatil77&theme=github-dark-blue&hide_border=true&mode=weekly" alt="Contribution consistency analysis" />
 </div>
 
-## Repository analytics
+## Repository intelligence
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ketpatil77&theme=github_dark" alt="Repository distribution by language" />
@@ -43,7 +47,7 @@ I build production-minded AI and full-stack systems: model-backed workflows, res
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ketpatil77&theme=github_dark&utcOffset=5.5" alt="Productive-time analysis" />
 </div>
 
-## Selected systems
+## Deployed systems
 
 | System | Engineering evidence |
 | --- | --- |
@@ -52,7 +56,7 @@ I build production-minded AI and full-stack systems: model-backed workflows, res
 | [Chikitsamedha](https://github.com/ketpatil77/chikitsamedha) | Privacy-first medicine safety analysis with explainable interaction checks and profile-based risk scoring |
 | [Plant Disease Recognition](https://github.com/ketpatil77/Plant-Disease-Recognition-System) | PyTorch computer vision with bilingual workflows, report generation, environmental context, and offline-ready operation |
 
-## Technical operating model
+## Execution protocol
 
 ```text
 Research signal → system design → measurable implementation → adversarial review → production verification
