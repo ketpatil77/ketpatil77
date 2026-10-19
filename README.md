@@ -35,9 +35,9 @@
 
 </div>
 
-## Operator profile
+## About
 
-I build production-minded AI and full-stack systems: model-backed workflows, resilient APIs, usable interfaces, cloud delivery, and security-conscious operations. My standard is software that can move beyond a demonstration and survive real users, constraints, and maintenance.
+I build and maintain AI, backend, and full-stack systems with an emphasis on reproducible testing, clear failure handling, secure defaults, and production delivery. I also contribute focused fixes and documentation improvements to established open-source projects.
 
 | System layer | Operational depth |
 | --- | --- |
@@ -77,6 +77,15 @@ I build production-minded AI and full-stack systems: model-backed workflows, res
 | [KETPORT](https://github.com/ketpatil77/KETPORT) | React and TypeScript portfolio system with component discipline, motion design, accessibility, and automated delivery |
 | [Chikitsamedha](https://github.com/ketpatil77/chikitsamedha) | Privacy-first medicine safety analysis with explainable interaction checks and profile-based risk scoring |
 | [Plant Disease Recognition](https://github.com/ketpatil77/Plant-Disease-Recognition-System) | PyTorch computer vision with bilingual workflows, report generation, environmental context, and offline-ready operation |
+
+## Selected open-source contributions
+
+| Project | Contribution | Evidence |
+| --- | --- | --- |
+| [Ruflo](https://github.com/ruvnet/ruflo) | Repaired 25 broken user-guide links across architecture, tutorials, package references, and ADR navigation | [Merged PR #4223](https://github.com/ruvnet/ruflo/pull/4223) |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Fixed locale loading for UTF-8 BOM files with regression coverage while preserving ordinary UTF-8 behavior | [Merged PR #1658](https://github.com/harry0703/MoneyPrinterTurbo/pull/1658) |
+
+Current work includes reviewed contributions to CrewAI, Omarchy, pytest, Ghidra, and other maintained projects. [View the active review queue](https://github.com/pulls?q=is%3Apr+author%3Aketpatil77+is%3Aopen).
 
 ## Execution protocol
 
