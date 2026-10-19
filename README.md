@@ -85,6 +85,8 @@ I build and maintain AI, backend, and full-stack systems with an emphasis on rep
 | [Ruflo](https://github.com/ruvnet/ruflo) | Repaired 25 broken user-guide links across architecture, tutorials, package references, and ADR navigation | [Merged PR #4223](https://github.com/ruvnet/ruflo/pull/4223) |
 | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Fixed locale loading for UTF-8 BOM files with regression coverage while preserving ordinary UTF-8 behavior | [Merged PR #1658](https://github.com/harry0703/MoneyPrinterTurbo/pull/1658) |
 
+[Read the contribution portfolio](CONTRIBUTIONS.md) for verified upstream case studies covering the problem, implementation, validation, maintainer feedback, and merge evidence.
+
 Current work includes active contributions to CrewAI, Omarchy, pytest, Ghidra, and other maintained projects. [View the active review queue](https://github.com/pulls?q=is%3Apr+author%3Aketpatil77+is%3Aopen).
 
 ## Execution protocol
@@ -99,6 +101,8 @@ Research signal → system design → measurable implementation → adversarial 
 - Prefer maintainable systems over impressive but fragile demonstrations.
 
 ## Recognition
+
+Native achievements are visible on the [GitHub profile](https://github.com/ketpatil77?tab=achievements). They reflect collaboration milestones; the contribution portfolio above provides the engineering evidence behind them.
 
 | GitHub signal | Evidence |
 | --- | --- |
