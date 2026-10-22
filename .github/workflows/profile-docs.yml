@@ -29,5 +29,5 @@ jobs:
       - name: Check important profile links
         run: |
           grep -q "ketpatil77.github.io" README.md
-          grep -q "KET-RESUME-NEW.pdf" README.md
+          grep -q "CONTRIBUTIONS.md" README.md
           grep -q "Plant-Disease-Recognition-System" README.md
